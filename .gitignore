@@ -1,0 +1,18 @@
+# Python e Venv
+__pycache__/
+.venv/
+venv/
+*.pyc
+
+# Dados (Não queremos subir os excels de teste para o GitHub)
+data/input/*
+data/output/*
+data/logs/*
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
