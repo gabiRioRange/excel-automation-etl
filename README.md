@@ -12,7 +12,7 @@ O sistema automatiza a ingestão de planilhas complexas, realiza tratamentos de 
 
 ## 🖼️ Interface Visual
 
-[Dashboard](Captura_de_tela.png)
+![Dashboard Preview](Captura_de_tela.png)
 
 ## 🚀 Funcionalidades
 
