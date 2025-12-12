@@ -4,3 +4,5 @@ pyarrow
 fastapi
 uvicorn
 python-multipart
+streamlit
+plotly
